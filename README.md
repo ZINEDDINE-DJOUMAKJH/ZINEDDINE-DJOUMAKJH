@@ -1,5 +1,5 @@
 
-👋 Hi, I’m @ZINEDDINE-DJOUMAKJH
+👋 Hi, I’m @ZINEDDINE-DJOUMAKH
 
 - 👀 I’m interested in web and mobile app development, innovative tech solutions, and the latest trends in software engineering.
 - 🌱 I’am currently learning advanced React and React Native, as well as exploring the potentials of AI in mobile applications.
